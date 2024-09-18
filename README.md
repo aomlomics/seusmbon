@@ -1,8 +1,6 @@
 # seusmbon
 
-Files associated with the Southeast United States Marine Biodiversity Observation Network (SEUSMBON). Samples are collected through the South Florida Ecosystem Restoration (SFER) cruises. This project [goals].
-
-* Study title: [study title on proposal or in NRDD]
+Files associated with the Southeast United States Marine Biodiversity Observation Network (SEUSMBON). Samples are collected through the South Florida Ecosystem Restoration (SFER) cruises. This project seeks to integrate ground and satellite observations related to biodiversity to inform ecosystem-based management in and around the Florida Keys National Marine Sanctuary (FKNMS).
 
 The structure of this repository is:
 
